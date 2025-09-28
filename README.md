@@ -1,3 +1,3 @@
-# gtom_pandas
-##  it's a try :)
+# Soo
+## ML learner :)
 My personal repos 
