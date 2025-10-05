@@ -1,3 +1,3 @@
 # Soo
-## ML learner :)
-My personal repos 
+## AI enjoyer
+05/10/25 : Made my first Todolist with auth 
