@@ -1,3 +1,4 @@
-# Soo
-## AI enjoyer
-05/10/25 : Made my first Todolist with auth 
+# Tom G
+## French agri-food engineer
+### I'm learning AI and ML by myself before find a school for September 2026
+
