@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Guillaume 👋</h1>
-<h3 align="center">🌾 French Agri-Food Engineer → AI/ML self-learner → PhD candidate (Sep 2026)</h3>
+<h1 align="center">Hey, I'm Tom 👋</h1>
+<h3 align="center">French Agri-Food Engineer → AI/ML self-learner → PhD candidate (Sep 2026)</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Learning+AI+%26+ML+from+scratch;Bridging+agri-food+%26+deep+learning;Edge+AI+%7C+Computer+Vision+%7C+GraphRAG;Building+toward+a+PhD+in+Sep+2026" alt="Typing SVG" />
@@ -13,11 +13,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Agri-food engineer** with a growing obsession for **AI & ML**
-- 🤖 Self-learning **Deep Learning**, **Computer Vision**, and **Graph AI**
-- 🌱 Working toward a **PhD starting September 2026**
-- 🛰️ Passionate about **precision agriculture**, **Edge AI**, and **IoT**
-- 📊 Exploring **GraphRAG**, **LLMs**, and data-driven solutions for the food industry
+-  **Agri-food engineer** with a growing obsession for **AI & ML**
+-  Self-learning **Deep Learning**, **Computer Vision**, and **Graph AI**
+-  Working toward a **PhD starting September 2026**
+- Passionate about **precision agriculture**, **Edge AI**, and **IoRT**
+- Exploring **GraphRAG**, **LLMs**, and data-driven solutions for the food industry
 
 ---
 
