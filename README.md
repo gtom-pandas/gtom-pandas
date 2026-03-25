@@ -11,17 +11,17 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 -  **Agri-food engineer** with a growing obsession for **AI & ML**
--  Self-learning **Deep Learning**, **Computer Vision**, and **Graph AI**
+-  Self-learning **Deep Learning**, **Computer Vision**, **Graph AI**
 -  Working toward a **PhD starting September 2026**
 - Passionate about **precision agriculture**, **Edge AI**, and **IoRT**
 - Exploring **GraphRAG**, **LLMs**, and data-driven solutions for the food industry
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gtom-pandas&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
@@ -49,7 +49,7 @@
 
 ---
 
-## 🏆 Repository Tier List
+## Repository Tier List
 
 > My public projects ranked by innovation, complexity, and real-world impact.
 
