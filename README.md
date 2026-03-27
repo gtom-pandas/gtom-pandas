@@ -16,7 +16,7 @@
 -  **Agri-food engineer** with a growing obsession for **AI & ML**
 -  Self-learning **Deep Learning**, **Computer Vision**, **Graph AI**
 -  Working toward a **PhD starting September 2026**
-- Passionate about **precision agriculture**, **Edge AI**, and **IoRT**
+- Passionate about **Agriculture and food**, **Edge AI**, and **IoRT**
 - Exploring **GraphRAG**, **LLMs**, and data-driven solutions for the food industry
 
 ---
