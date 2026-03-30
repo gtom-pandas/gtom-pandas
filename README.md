@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Tom 👋</h1>
+<h1 align="center">Tom</h1>
 <h3 align="center">French Agri-Food Engineer → AI/ML self-learner → PhD candidate (Sep 2026)</h3>
 
 <p align="center">
