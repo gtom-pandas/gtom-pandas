@@ -70,6 +70,12 @@
       <td><code>C++</code> <code>Arduino</code> <code>LoRa</code> <code>Edge AI</code></td>
     </tr>
     <tr>
+      <td align="center"><b>🥇 S</b></td>
+      <td><a href="https://github.com/gtom-pandas/agroworld-streamer"><b>agroworld-streamer</b></a></td>
+      <td>Autonomous Edge AI rover for real-time FPV teleoperation, behavioral cloning training, and closed-loop navigation on Raspberry Pi + Arduino</td>
+      <td><code>Python</code> <code>Raspberry Pi</code> <code>Arduino</code> <code>ONNX</code> <code>AsyncIO</code></td>
+    </tr>
+    <tr>
       <td align="center"><b>🥈 A</b></td>
       <td><a href="https://github.com/gtom-pandas/image2biomass"><b>image2biomass</b></a></td>
       <td>Kaggle CSIRO Image2Biomass challenge — computer vision with DINOv3 & SigLIP foundation models</td>
