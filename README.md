@@ -103,13 +103,3 @@
 </table>
 
 ---
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/gtom-pandas"><img src="https://img.shields.io/badge/GitHub-gtom--pandas-181717?style=for-the-badge&logo=github"/></a>
-</p>
-
-<p align="center"><i>"From fields to features — using AI to feed the world smarter."</i></p>
-
-
